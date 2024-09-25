@@ -6,8 +6,11 @@
     "start": "next start"
   },
   "dependencies": {
+    "@azure/msal-browser": "^3.24.0",
+    "@azure/msal-react": "^2.1.0",
     "next": "latest",
     "react": "18.2.0",
+    "react-bootstrap": "^2.10.4",
     "react-dom": "18.2.0"
   },
   "engines": {
